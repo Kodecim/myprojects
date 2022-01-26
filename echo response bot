@@ -1,0 +1,5 @@
+print("Hello! Welcome to my first chatbot.")
+print("This bot will repeat, or echo, whatever you tell it.")
+print("Now type something.")
+echo_reply = input()
+print("You said " + echo_reply + "?")
